@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master229198112" alt="master229198112" /></a> </p>
 
-🔭 I’m currently working as **Senior Project Engineer** at **Woxsen University**
+- 🔭 I’m currently working as **Senior Project Engineer** at **Woxsen University**
 
 - 🌱 I’m currently learning **JavaScript**
 
